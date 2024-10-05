@@ -1,9 +1,8 @@
 
 
 ```markdown
-# Chatbot Project
 
-## Description
+### Description
 This project is a conversational AI chatbot runtime built using Flask, LangChain, and Ollama. It is designed to engage in interactive conversations with users, learn from interactions, and store conversation history for future reference. The frontend is developed with HTML, CSS, and JavaScript, providing a user-friendly interface that allows users to easily interact with the chatbot. You can adjust the code and enjoy different models on ollama.
 
 ### Features
