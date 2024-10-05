@@ -70,9 +70,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [LangChain](https://langchain.com/)
 - [Ollama](https://ollama.com/)
 ```
-
-### Instructions for Use:
-- Replace `<repository-url>` and `<repository-directory>` with the actual URL and directory name of your project.
-- You can add any additional sections as needed, like License, Acknowledgments, etc.
-
-This README should provide a comprehensive overview of your chatbot project, its functionality, and how to get started with it!
