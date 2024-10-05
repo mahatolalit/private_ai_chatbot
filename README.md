@@ -4,7 +4,7 @@
 # Chatbot Project
 
 ## Description
-This project is a conversational AI chatbot built using Flask, LangChain, and Ollama. The chatbot is designed to engage in interactive conversations with users, learn from interactions, and store conversation history for future reference. The frontend is developed with HTML, CSS, and JavaScript, providing a user-friendly interface that allows users to easily interact with the chatbot. You can adjust the code and enjoy different models on ollama.
+This project is a conversational AI chatbot runtime built using Flask, LangChain, and Ollama. It is designed to engage in interactive conversations with users, learn from interactions, and store conversation history for future reference. The frontend is developed with HTML, CSS, and JavaScript, providing a user-friendly interface that allows users to easily interact with the chatbot. You can adjust the code and enjoy different models on ollama.
 
 ### Features
 - Interactive chat interface with a responsive design
@@ -12,6 +12,7 @@ This project is a conversational AI chatbot built using Flask, LangChain, and Ol
 - Typing animation for bot responses
 - Ability to view and save past conversations
 - Learn from user interactions and correct mistakes
+- Export Old chats in text format
 
 ## Getting Started
 
@@ -19,7 +20,7 @@ This project is a conversational AI chatbot built using Flask, LangChain, and Ol
 - Python 3.x
 - Flask
 - LangChain
-- Ollama model
+- Ollama with ai model
 
 ### Installation
 1. Clone the repository:
@@ -56,7 +57,7 @@ The chatbot has the following commands to manage memory and conversation history
 /Chatbot-Project
 │
 ├── chatbot.py
-├── memory.json
+├── bot_memory.json
 ├── index.html
 ├── styles.css
 └── script.js
